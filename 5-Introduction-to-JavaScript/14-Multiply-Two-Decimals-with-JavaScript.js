@@ -1,6 +1,2 @@
-// This lesson taught me how to use decimal values in a varable
-var ourDecimal = 5.7;
-
-// Only change code below this line
-
-var myDecimal = 5.7;
+// This lesson taught me how to multiply decimal values together in a varable
+var product = 2.0 * 2.5;
